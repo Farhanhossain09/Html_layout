@@ -1,0 +1,59 @@
+.header {
+    background-color: green;
+    min-height: 80px;
+}
+
+.container {
+    overflow: hidden;
+}
+
+.box1 {
+    background-color: aqua;
+    width: 33%;
+    min-height: 150px;
+    float: left;
+}
+
+.box2 {
+
+	background-color: red;
+	width: 33.50%;
+	min-height: 150px;
+	float: left;
+}
+
+.box3 {
+    background-color: blue;
+    width: 33.50%;
+    min-height: 150px;
+    float: left;
+  }  
+
+  .footer {
+    background-color: black;
+    min-height: 80px;
+   } 
+
+   table {
+    width: 50%;
+    border: 1px solid black;
+    border-collapse: collapse;
+   }
+   
+   th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: left; 
+  }
+  
+  table {
+    width: 50%;
+    border: 1px solid black;
+    border-collapse: collapse;  
+}
+
+th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: left;
+   } 
